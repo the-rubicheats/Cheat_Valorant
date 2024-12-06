@@ -8,9 +8,11 @@ Esta versão disponível no GitHub é gratuita, mas possui funcionalidades limit
 ---
 
 ## **O QUE É O RUBIAIM?**  
-O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua experiência no jogo. Desenvolvido para usuários que desejam uma personalização completa, oferece funcionalidades avançadas, como troca de skins visual, assistência de mira (aimbot), e mais!  
+O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua experiência no jogo. Desenvolvido para usuários que desejam uma personalização completa, oferece funcionalidades avançadas, como wallhack, assistência de mira (aimbot), e mais!  
 
-### **Destaques da Versão Privada:**  
+![preview](Resources/1.png)
+
+### **Destaques da Versão Atual:**  
 - 🎯 **Aimbot altamente configurável**  
 - 🔒 **Bypass seguro para Vanguard**  
 - 🚀 **Injeção simplificada e interface intuitiva**  
@@ -19,8 +21,8 @@ O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua expe
 - ➕ **Draw Crosshair**
 - 👁️ **Visibility Check**
 - 🤖 **Smoothing Aim**
-- 👀 *Visuals**
-- 🟥 ** Box(3D Box, 2D Box)**
+- 👀 **Visuals**
+- 🟥 **Box(3D Box, 2D Box)**
 - 👥 **Team Check**
 - 🚫 **Remove Dormant**
 - ❤️ **Health**
@@ -41,7 +43,9 @@ O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua expe
 2. **Inicie o Valorant**: Abra o jogo e deixe-o no **modo janela sem bordas** ou **modo janela**.  
 3. **Feche processos conflitantes**: Abra o Gerenciador de Tarefas, localize o processo **RubiAIM** e encerre-o.  
 4. **Execute o programa**: Abra novamente o **RubiAIM** e o menu do cheat aparecerá automaticamente no jogo!  
-5. **Importante**: Ative o **HVCI** para garantir o funcionamento adequado e maior segurança.  
+5. **Importante**: Ative o **HVCI** para garantir o funcionamento adequado e maior segurança.
+
+![preview](Resources/2.png)
 
 ---
 
@@ -53,28 +57,10 @@ O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua expe
 
 ---
 
-## **FUNCIONALIDADES DA VERSÃO GRATUITA**  
-
-- 🌟 **Troca de skins limitada**  
-- 🔧 Configuração básica para **Aimbot**  
-- 💻 Compatibilidade com sistemas padrão  
-
-### **Atualize para a Versão Privada para ter:**  
-- Todos os pacotes de skins liberados  
-- Interface gráfica personalizável  
-- Injetor próprio com maior segurança  
-
----
-
 ## **SUPORTE & CONTATO**  
 Para dúvidas, suporte ou adquirir a versão privada do **Rubiaim**, entre em contato:  
 📧 **E-mail:** [rubi_dev@vendacheats.com](mailto:rubi_dev@vendacheats.com)  
 🌐 **Site:** [chat.vendacheats.com](https://chat.vendacheats.com)  
-
-### **Vídeo Demonstrativo:**  
-Veja como configurar e usar o Rubiaim na prática. Vídeos disponíveis na pasta `Resources` do projeto.  
-
-![Demo GIF](Resources/Demo_Rubiaim.gif)  
 
 ---
 
