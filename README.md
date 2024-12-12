@@ -3,7 +3,7 @@
 ### **ATENÇÃO:**  
 Esta versão disponível no GitHub é gratuita, mas possui funcionalidades limitadas e requer configuração manual. Caso deseje acesso à **versão privada completa**, contando com suporte dedicado, driver próprio e segurança reforçada contra o Vanguard, entre em contato:  
 📧 **E-mail:** [rubi_dev@vendacheats.com](mailto:rubi_dev@vendacheats.com)  
-🌐 **Site:** [chat.vendacheats.com](https://chat.vendacheats.com)  
+🌐 **Site:** [rubireseller.vendacheats.com](https://rubireseller.vendacheats.com)  
 
 ---
 
@@ -60,7 +60,7 @@ O **Rubiaim V8** para Valorant é a ferramenta definitiva para melhorar sua expe
 ## **SUPORTE & CONTATO**  
 Para dúvidas, suporte ou adquirir a versão privada do **Rubiaim**, entre em contato:  
 📧 **E-mail:** [rubi_dev@vendacheats.com](mailto:rubi_dev@vendacheats.com)  
-🌐 **Site:** [chat.vendacheats.com](https://chat.vendacheats.com)  
+🌐 **Site:** [rubireseller.vendacheats.com](https://rubireseller.vendacheats.com)  
 
 ---
 
